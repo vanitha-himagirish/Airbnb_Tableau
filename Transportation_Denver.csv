@@ -1,0 +1,121 @@
+FACILITY_ID,ADDRESS,CITY,STATE,ZIPCODE,METRO_AREA,FACILITY_NAME,LONGITUDE,LATITUDE,POINT_LON,POINT_LAT,FACILITY_TYPE,TRANSIT_SERVICE,MODE_BUS,MODE_AIR,MODE_RAIL,MODE_FERRY
+CO8011102, 4855 S Quebec St,Denver,CO,80111,Denver-Aurora-Lakewood CO,Belleview Station,-104.9,39.6265,-104.9041,39.6265,8,1,1,0,1,0
+CO8020201,1701 Wynkoop St,Denver,CO,80202,Denver-Aurora-Lakewood CO,Union Station,-105,39.75322,-105.00007,39.75279,10,1,1,0,1,0
+CO8020202,1701 Wynkoop St,Denver,CO,80202,Denver-Aurora-Lakewood CO,Denver Union Station,-105,39.7529,-105.00007,39.75279,2,1,1,0,1,0
+CO8020203,1055 19th St,Denver,CO,80202,Denver-Aurora-Lakewood CO,Denver Bus Center,-104.99,39.7505,-104.992,39.7505,2,1,1,0,0,0
+CO8020204,1600 Wewatta St,Denver,CO,80202,Denver-Aurora-Lakewood CO,Union Station,-105,39.7555,-105.002025,39.754685,8,1,1,0,1,0
+CO8020205,1617 Stout St,Denver,CO,80202,Denver-Aurora-Lakewood CO,16th & Stout Station,-104.99,39.7461,-104.9929,39.7461,8,1,1,0,1,0
+CO8020206,1816 Stout St,Denver,CO,80202,Denver-Aurora-Lakewood CO,18th & Stout Station,-104.99,39.7478,-104.9904,39.7478,8,1,1,0,1,0
+CO8020207,1325 Stout St,Denver,CO,80202,Denver-Aurora-Lakewood CO,Theatre District/Convention Center,-105,39.7438,-104.995735,39.74394,8,1,0,0,1,0
+CO8020208,1516 California St,Denver,CO,80202,Denver-Aurora-Lakewood CO,16th & California Station,-104.99,39.7444,-104.9931,39.7444,8,1,1,0,1,0
+CO8020209,1600 Market Street,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105,39.750151,-104.998234,39.750151,12,1,1,0,0,0
+CO8020210,15th and Platte,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105.01,39.75642,-105.008781,39.75642,12,1,1,0,0,0
+CO8020211,16th and Broadway,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.741696,-104.987334,39.741696,12,1,1,0,0,0
+CO8020212,15th and Little Raven,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105.01,39.75435,-105.006525,39.75435,12,1,1,0,0,0
+CO8020213,18th and California,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.747239,-104.989807,39.747035,12,1,1,0,1,0
+CO8020214,15th and Curtis,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105,39.746423,-104.996046,39.746423,12,1,1,0,0,0
+CO8020215,1450 Wazee,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105,39.750242,-105.001228,39.750242,12,1,1,0,0,0
+CO8020216,18th and Arapahoe,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.749912,-104.993256,39.749912,12,1,1,0,0,0
+CO8020218,14th and Welton,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.742777,-104.99375,39.742777,12,1,1,0,0,0
+CO8020219,19th and Wynkoop,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.755208,-104.994951,39.755208,12,1,1,0,0,0
+CO8020220,Court Pl & 14th St Webb Building,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.740912,-104.990692,39.740912,12,1,1,0,0,0
+CO8020222,17th and Larimer,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105,39.750349,-104.996228,39.750349,12,1,1,0,0,0
+CO8020223,1416 Platte St,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105.01,39.755851,-105.009929,39.755851,12,1,1,0,0,0
+CO8020224,1350 Larimer,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105,39.747149,-105.000176,39.747149,12,1,1,0,0,0
+CO8020225,1550 Glenarm,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.743486,-104.990982,39.743486,12,1,1,0,0,0
+CO8020227,17th and Blake,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105,39.751636,-104.997987,39.751636,12,1,1,0,0,0
+CO8020228,20th and Chestnut,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105,39.757855,-104.998674,39.757855,12,1,1,0,0,0
+CO8020229,19th and Market,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.752915,-104.994694,39.752915,12,1,1,0,0,0
+CO8020230,15th and Delgany,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-105,39.752502,-105.003835,39.752502,12,1,1,0,0,0
+CO8020231,15th and Cleveland,Denver,CO,80202,Denver-Aurora-Lakewood CO,,-104.99,39.741069,-104.988997,39.741069,12,1,1,0,0,0
+CO8020232,1700 Wewatta St,Denver,CO,80202,Denver-Aurora-Lakewood CO,17th and Wewatta,-105,39.75387,-105.002025,39.754685,12,1,1,0,1,0
+CO8020233,2051 16th St,Denver,CO,80202,Denver-Aurora-Lakewood CO,16th and Chestnut,-105,39.75436,-105.00373,39.75436,12,1,1,0,0,0
+CO8020234,1651 Wynkoop St.,Denver,CO,80202,Denver-Aurora-Lakewood CO,16th and Wynkoop,-105,39.75225,-105.00007,39.75279,12,1,1,0,1,0
+CO8020235,18th St & California St,Denver,CO,80202,Denver-Aurora-Lakewood CO,18th & California Station,-104.99,39.747066,-104.989807,39.747035,2,1,1,0,1,0
+CO8020236,1225 17th St,Denver,CO,80202,Denver-Aurora-Lakewood CO,17th St Plaza,-105,39.749657,-104.995575,39.749657,2,1,1,0,0,0
+CO8020301,19th and Pearl,Denver,CO,80203,Denver-Aurora-Lakewood CO,,-104.98,39.746151,-104.980038,39.746151,12,1,1,0,0,0
+CO8020302,13th and Pearl,Denver,CO,80203,Denver-Aurora-Lakewood CO,,-104.98,39.737035,-104.979899,39.737035,12,0,0,0,0,0
+CO8020303,12th and Sherman,Denver,CO,80203,Denver-Aurora-Lakewood CO,,-104.98,39.73545,-104.984855,39.73545,12,1,1,0,0,0
+CO8020304,16th and Sherman,Denver,CO,80203,Denver-Aurora-Lakewood CO,,-104.98,39.740186,-104.984866,39.740186,12,1,1,0,0,0
+CO8020305,9th and Logan,Denver,CO,80203,Denver-Aurora-Lakewood CO,,-104.98,39.730624,-104.982216,39.730624,12,1,1,0,0,0
+CO8020306,6th and Clarkson,Denver,CO,80203,Denver-Aurora-Lakewood CO,,-104.98,39.725821,-104.977613,39.725821,12,1,1,0,0,0
+CO8020307,17th and Pearl,Denver,CO,80203,Denver-Aurora-Lakewood CO,,-104.98,39.74345,-104.979877,39.74345,12,1,1,0,0,0
+CO8020308,7th and Grant,Denver,CO,80203,Denver-Aurora-Lakewood CO,,-104.98,39.727439,-104.983557,39.727439,12,1,1,0,0,0
+CO8020309,Lincoln St & Colfax Ave,Denver,CO,80203,Denver-Aurora-Lakewood CO,Civic Center,-104.99,39.740063,-104.98614,39.740063,2,1,1,0,0,0
+CO8020401,4th St & Walnut St,Denver,CO,80204,Denver-Aurora-Lakewood CO,INVESCO Field at Mile High Station,-105.01,39.7435,-105.012787,39.743282,8,1,0,0,1,0
+CO8020402,1199 5th St,Denver,CO,80204,Denver-Aurora-Lakewood CO,Auraria West Campus Station,-105.01,39.742,-105.0101,39.742,8,1,0,0,1,0
+CO8020403,1101 W Colfax Ave,Denver,CO,80204,Denver-Aurora-Lakewood CO,Colfax at Auraria Station,-105,39.7402,-105.0017,39.7402,8,1,1,0,1,0
+CO8020404,975 Osage St,Denver,CO,80204,Denver-Aurora-Lakewood CO,10th & Osage Station,-105.01,39.7327,-105.005347,39.73245,8,1,1,0,1,0
+CO8020405,9th and Santa Fe,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-105,39.730467,-104.999844,39.730467,12,1,1,0,0,0
+CO8020407,11th and Broadway,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-104.99,39.733627,-104.987538,39.733627,12,1,1,0,0,0
+CO8020408,9th and Curtis,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-105.01,39.744682,-105.005924,39.744682,12,1,1,0,0,0
+CO8020410,13th and Speer,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-105,39.750424,-105.004714,39.750424,12,0,0,0,0,0
+CO8020411,4th and Walnut,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-105.01,39.743065,-105.012787,39.743282,12,1,0,0,1,0
+CO8020412,14th and Elati,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-104.99,39.738627,-104.994125,39.738627,12,1,1,0,0,0
+CO8020413,Pepsi Center,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-105.01,39.748914,-105.0087,39.748807,12,1,0,0,1,0
+CO8020414,11th and Delaware,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-104.99,39.734056,-104.992988,39.734056,12,0,0,0,0,0
+CO8020415,10th and Osage,Denver,CO,80204,Denver-Aurora-Lakewood CO,,-105.01,39.7322,-105.005347,39.73245,12,1,1,0,1,0
+CO8020416,850 14th St.,Denver,CO,80204,Denver-Aurora-Lakewood CO,14th and Stout,-105,39.74408,-104.995735,39.74394,12,1,0,0,1,0
+CO8020417,790 Delaware Street,Denver,CO,80204,Denver-Aurora-Lakewood CO,Denver Health,-104.99,39.72766,-104.99212,39.72766,12,0,0,0,0,0
+CO8020418,10 W 14th Avenue Pkwy,Denver,CO,80204,Denver-Aurora-Lakewood CO,Denver Public Library,-104.99,39.73713,-104.9887,39.73713,12,1,1,0,0,0
+CO8020419,2810 W Howard Pl.,Denver,CO,80204,Denver-Aurora-Lakewood CO,Decatur Federal Light Rail,-105.02,39.73811,-105.02232,39.73811,12,1,1,0,0,0
+CO8020501,2147 Broadway,Denver,CO,80205,Denver-Aurora-Lakewood CO,Los Paisanos,-104.99,39.7511,-104.987,39.7511,2,1,1,0,0,0
+CO8020502,2999 Downing St,Denver,CO,80205,Denver-Aurora-Lakewood CO,30th & Downing Station,-104.97,39.7595,-104.9734,39.7595,8,1,1,0,1,0
+CO8020503, 2550 Welton St,Denver,CO,80205,Denver-Aurora-Lakewood CO,25th & Welton Station,-104.98,39.7534,-104.9798,39.7534,8,1,0,0,1,0
+CO8020504,2720 Welton St,Denver,CO,80205,Denver-Aurora-Lakewood CO,27th & Welton Station,-104.98,39.755,-104.977851,39.754922,8,1,0,0,1,0
+CO8020505,2940 Welton St,Denver,CO,80205,Denver-Aurora-Lakewood CO,29th & Welton Station,-104.98,39.757,-104.9751,39.757,8,1,0,0,1,0
+CO8020506,1960 Welton St,Denver,CO,80205,Denver-Aurora-Lakewood CO,20th & Welton Station,-104.99,39.7478,-104.9868,39.7478,8,1,0,0,1,0
+CO8020507,2001 Colorado Blvd,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.94,39.747578,-104.94091,39.747578,12,1,1,0,0,0
+CO8020508,2300 Steele St,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.95,39.751163,-104.954564,39.751163,12,1,1,0,0,0
+CO8020509,2045 Franklin,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.97,39.747635,-104.969535,39.747635,12,0,0,0,0,0
+CO8020510,22nd and Market,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.99,39.755653,-104.990992,39.755653,12,1,1,0,0,0
+CO8020511,Five Points,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.98,39.754845,-104.977851,39.754922,12,1,0,0,1,0
+CO8020512,Park Ave West and Tremont,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.98,39.749854,-104.981047,39.749854,12,0,0,0,0,0
+CO8020513,22nd and Pennsylvania,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.98,39.747809,-104.981079,39.747809,12,1,1,0,0,0
+CO8020515,33rd and Arapahoe,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.98,39.763901,-104.975178,39.763901,12,1,1,0,0,0
+CO8020516,Broadway and Walnut,Denver,CO,80205,Denver-Aurora-Lakewood CO,,-104.99,39.75849,-104.987462,39.75849,12,1,1,0,0,0
+CO8020517,3000 Lawrence St.,Denver,CO,80205,Denver-Aurora-Lakewood CO,30th and Lawrence,-104.98,39.76185,-104.97928,39.76185,12,1,1,0,0,0
+CO8020518,2091 Lawrence St.,Denver,CO,80205,Denver-Aurora-Lakewood CO,21st and Lawrence,-104.99,39.75324,-104.99073,39.75324,12,1,1,0,0,0
+CO8020519,1350 21st Street,Denver,CO,80205,Denver-Aurora-Lakewood CO,21st and Market,-104.99,39.75425,-104.99206,39.75425,12,0,0,0,0,0
+CO8020602,12th and Columbine,Denver,CO,80206,Denver-Aurora-Lakewood CO,,-104.96,39.735327,-104.957454,39.735327,12,1,1,0,0,0
+CO8020603,Colfax and Columbine,Denver,CO,80206,Denver-Aurora-Lakewood CO,,-104.96,39.740335,-104.957411,39.740335,12,1,1,0,0,0
+CO8020604,17th and Race,Denver,CO,80206,Denver-Aurora-Lakewood CO,,-104.96,39.743461,-104.963462,39.743461,12,1,1,0,0,0
+CO8020605,Colfax and Gaylord,Denver,CO,80206,Denver-Aurora-Lakewood CO,,-104.96,39.740112,-104.960984,39.740112,12,1,1,0,0,0
+CO8020607,1151 York St,Denver,CO,80206,Denver-Aurora-Lakewood CO,,-104.96,39.735063,-104.960147,39.735063,12,1,1,0,0,0
+CO8020608,Colfax and Garfield,Denver,CO,80206,Denver-Aurora-Lakewood CO,,-104.94,39.740351,-104.944236,39.740351,12,1,1,0,0,0
+CO8020609,28th and Larimer,Denver,CO,80206,Denver-Aurora-Lakewood CO,,-104.98,39.760585,-104.982913,39.760585,12,1,1,0,0,0
+CO8020610,Colfax and Steele,Denver,CO,80206,Denver-Aurora-Lakewood CO,,-104.95,39.740359,-104.949461,39.740359,12,1,1,0,0,0
+CO8020611,2900 Cherry Creek N Drive,Denver,CO,80206,Denver-Aurora-Lakewood CO,Cherry Creek Mall,-104.95,39.71504,-104.95218,39.71504,12,0,0,0,0,0
+CO8020901,901 S Broadway,Denver,CO,80209,Denver-Aurora-Lakewood CO,I - 25 & Broadway Station,-104.99,39.7002,-104.9876,39.7002,8,1,1,0,1,0
+CO8020902,910 E Bayaud Ave,Denver,CO,80209,Denver-Aurora-Lakewood CO,,-104.99,39.714763,-104.987623,39.714763,12,1,1,0,0,0
+CO8020904,Bayaud and Pennsylvania,Denver,CO,80209,Denver-Aurora-Lakewood CO,,-104.98,39.714928,-104.981508,39.714928,12,0,0,0,0,0
+CO8020905,30 S. Madison St.,Denver,CO,80209,Denver-Aurora-Lakewood CO,Ellsworth and Madison,-104.95,39.71591,-104.94633,39.71591,12,1,1,0,0,0
+CO8021001,755 E Louisiana,Denver,CO,80210,Denver-Aurora-Lakewood CO,Louisiana/Pearl Station,-104.98,39.6931,-104.979,39.6931,8,1,1,0,1,0
+CO8021002,1901 E Buchtel Blvd,Denver,CO,80210,Denver-Aurora-Lakewood CO,University of Denver,-104.97,39.6851,-104.9652,39.6851,8,1,1,0,1,0
+CO8021006,1600 E Louisiana Ave,Denver,CO,80210,Denver-Aurora-Lakewood CO,,-104.97,39.693162,-104.968773,39.693162,12,1,1,0,0,0
+CO8021101,32nd and Clay,Denver,CO,80211,Denver-Aurora-Lakewood CO,,-105.02,39.762193,-105.020464,39.762193,12,1,1,0,0,0
+CO8021102,16th and Boulder,Denver,CO,80211,Denver-Aurora-Lakewood CO,,-105.01,39.758861,-105.010122,39.758861,12,1,1,0,0,0
+CO8021103,32nd and Julian,Denver,CO,80211,Denver-Aurora-Lakewood CO,,-105.03,39.762309,-105.032223,39.762309,12,1,1,0,0,0
+CO8021104,23rd and Clay,Denver,CO,80211,Denver-Aurora-Lakewood CO,,-105.02,39.751455,-105.020475,39.751455,12,1,1,0,0,0
+CO8021105,17th St and Tejon,Denver,CO,80211,Denver-Aurora-Lakewood CO,,-105.01,39.761765,-105.01113,39.761765,12,1,1,0,0,0
+CO8021106,29th and Zuni,Denver,CO,80211,Denver-Aurora-Lakewood CO,,-105.02,39.758565,-105.015851,39.758565,12,1,1,0,0,0
+CO8021107,3200 Pecos St,Denver,CO,80211,Denver-Aurora-Lakewood CO,32nd and Pecos,-105.01,39.76204,-105.0061,39.76204,12,1,1,0,0,0
+CO8021601,3965 Fox St,Denver,CO,80216,Denver-Aurora-Lakewood CO,39th and Fox,-104.99,39.7712,-104.99497,39.7712,12,1,1,0,0,0
+CO8021801,1551 Lafayette,Denver,CO,80218,Denver-Aurora-Lakewood CO,,-104.97,39.741176,-104.970929,39.741176,12,0,0,0,0,0
+CO8021802,17th and Downing,Denver,CO,80218,Denver-Aurora-Lakewood CO,,-104.97,39.743404,-104.973375,39.743404,12,1,1,0,0,0
+CO8021803,13th and Marion,Denver,CO,80218,Denver-Aurora-Lakewood CO,,-104.97,39.737125,-104.971809,39.737125,12,1,1,0,0,0
+CO8021804,17th and Franklin,Denver,CO,80218,Denver-Aurora-Lakewood CO,,-104.97,39.743395,-104.968451,39.743395,12,1,1,0,0,0
+CO8021805,11th and Emerson,Denver,CO,80218,Denver-Aurora-Lakewood CO,,-104.98,39.733842,-104.976433,39.733842,12,1,1,0,0,0
+CO8021806,14th and Ogden,Denver,CO,80218,Denver-Aurora-Lakewood CO,,-104.98,39.738619,-104.975253,39.738619,12,1,1,0,0,0
+CO8021807,9th and Downing,Denver,CO,80218,Denver-Aurora-Lakewood CO,,-104.97,39.730698,-104.972979,39.730698,12,1,1,0,0,0
+CO8021808,990 E. 11th Ave.,Denver,CO,80218,Denver-Aurora-Lakewood CO,11th and Ogden,-104.98,39.73361,-104.97554,39.73361,12,0,0,0,0,0
+CO8022201,4300 E Colorado Center Dr,Denver,CO,80222,Denver-Aurora-Lakewood CO,Colorado Station,-104.94,39.6797,-104.937555,39.679705,8,1,1,0,1,0
+CO8022202,5315 E Yale Ave,Denver,CO,80222,Denver-Aurora-Lakewood CO,Yale Station,-104.93,39.6675,-104.9271,39.6675,8,1,1,0,1,0
+CO8022203,4300 E Colorado Center Dr,Denver,CO,80222,Denver-Aurora-Lakewood CO,Colorado Station,-104.94,39.679711,-104.937555,39.679705,2,1,1,0,1,0
+CO8022301,425 S Cherokee St,Denver,CO,80223,Denver-Aurora-Lakewood CO,Alameda Station,-104.99,39.7098,-104.9925,39.7098,8,1,1,0,1,0
+CO8022302,2150 S Delaware St,Denver,CO,80223,Denver-Aurora-Lakewood CO,Evans Station,-104.99,39.6775,-104.9922,39.6775,8,1,1,0,1,0
+CO8022303,1st and Broadway,Denver,CO,80223,Denver-Aurora-Lakewood CO,,-104.99,39.71856,-104.987849,39.71856,12,1,1,0,0,0
+CO8023701,3737 S Monaco Pkwy,Denver,CO,80237,Denver-Aurora-Lakewood CO,Southmoor Station,-104.91,39.6493,-104.9132,39.6493,8,1,0,0,1,0
+CO8024001,1700 9th S,Denver,CO,80240,Denver-Aurora-Lakewood CO,Pepsi Center/Elitch Gardens Station,-105.01,39.7487,-105.0087,39.748807,8,1,0,0,1,0
+CO8024901,8500 Pena Blvd,Denver,CO,80249,Denver-Aurora-Lakewood CO,Denver International,-104.67,39.85841,-104.667,39.85841,1,1,1,1,0,0
+CO8029301,1776 California St,Denver,CO,80293,Denver-Aurora-Lakewood CO,18th & California Station,-104.99,39.7468,-104.989807,39.747035,8,1,1,0,1,0
